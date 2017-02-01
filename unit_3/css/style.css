@@ -1,0 +1,22 @@
+style.css
+
+body {
+
+
+
+}
+
+h1 {color: red;
+font-family: helvetica;
+text-transform: uppercase;
+margin: 40px 10px 10px 20px;
+}
+
+p {font-family: helvetica;
+margin: 40px 10px 40px 20px;
+
+}
+
+li {font-family: helvetica;
+	margin: 10px 40px 10px 70px;
+}
