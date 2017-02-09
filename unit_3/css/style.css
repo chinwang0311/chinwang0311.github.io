@@ -1,16 +1,26 @@
 style.css
 
+
+
 body {
 
 
-
 }
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+
 
 h1 {color: red;
 font-family: helvetica;
 text-transform: uppercase;
 margin: 40px 10px 10px 20px;
 }
+
 
 p {font-family: helvetica;
 margin: 40px 10px 40px 20px;

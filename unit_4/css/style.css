@@ -1,0 +1,50 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:900');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+
+
+body {
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+
+h1 {
+
+font-family: 'Playfair Display', serif;
+margin: 20px 10px 10px 10px;
+}
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: -50px 30px 20px 0px;
+    padding: 20px;
+
+}
+
+li {
+	float: right;
+	font-family: 'Rubik', sans-serif;
+}
+
+li a {
+	text-transform: uppercase;
+    color: black;
+    text-align: center;
+    padding: 20px;
+
+    text-decoration: none;
+}
+
+li a:hover {
+    color: red;
+}
